@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#2E7D32"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/font"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#F9A825"
+        android:text="Basic Phrases"
+        android:textSize="50sp"
+        app:fontFamily="@font/adamina"
+        app:layout_constraintBottom_toTopOf="@+id/gridLayout"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <GridLayout
+        android:id="@+id/gridLayout"
+        android:layout_width="match_parent"
+
+        android:layout_height="match_parent"
+        android:layout_marginTop="100dp"
+        android:columnCount="2"
+        android:rowCount="4"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <Button
+            android:id="@+id/doyouspeakenglish"
+            android:layout_width="129dp"
+            android:layout_rowWeight="1"
+            android:layout_columnWeight="1"
+            android:layout_gravity="fill"
+            android:onClick="speak"
+            android:tag="doyouspeakenglish"
+            android:text="do you \n speak english?" />
+
+        <Button
+            android:id="@+id/goodevening"
+            android:layout_rowWeight="1"
+            android:layout_columnWeight="1"
+            android:layout_gravity="fill"
+            android:onClick="speak"
+            android:tag="goodevening"
+            android:text="GOOD EVENING" />
+
+        <Button
+            android:id="@+id/hello"
+            android:layout_width="wrap_content"
+            android:layout_rowWeight="1"
+            android:layout_columnWeight="1"
+            android:layout_gravity="fill"
+            android:onClick="speak"
+            android:tag="hello"
+            android:text="HELLO" />
+
+        <Button
+            android:id="@+id/howareyou"
+            android:layout_rowWeight="1"
+            android:layout_columnWeight="1"
+            android:layout_gravity="fill"
+            android:onClick="speak"
+            android:tag="howareyou"
+            android:text="HOW ARE YOU?" />
+
+        <Button
+            android:id="@+id/ilivein"
+            android:layout_rowWeight="1"
+            android:layout_columnWeight="1"
+            android:layout_gravity="fill"
+            android:onClick="speak"
+            android:tag="ilivein"
+            android:text="I LIVE IN...." />
+
+        <Button
+            android:id="@+id/mynameis"
+            android:layout_rowWeight="1"
+            android:layout_columnWeight="1"
+            android:layout_gravity="fill"
+            android:onClick="speak"
+            android:tag="mynameis"
+            android:text="MY NAME IS ..." />
+
+        <Button
+            android:id="@+id/please"
+            android:layout_rowWeight="1"
+            android:layout_columnWeight="1"
+            android:layout_gravity="fill"
+            android:onClick="speak"
+            android:tag="please"
+            android:text="PLEASE" />
+
+        <Button
+            android:id="@+id/welcome"
+            android:layout_rowWeight="1"
+            android:layout_columnWeight="1"
+            android:layout_gravity="fill"
+            android:onClick="speak"
+            android:tag="welcome"
+            android:text="WELCOME" />
+    </GridLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
