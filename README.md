@@ -3,10 +3,10 @@
 ## Description
 This apps takes in a number and tells whether it is a triangle or square number.
 
-### Triangle Number
+### <ins>Triangle Number</ins>
 A triangular number is a number that is represented by a pattern of dots arranged in an equilateral triangle with the same number of dots on each side. 1, 3, 6, 10 are some examples of this.
 
-### Square Number
+### <ins>Square Number</ins>
 A square number is a result when a number has been multiplied by itself. 1, 4, 9, 16 are some of the examples of this.
 
 <br/>
