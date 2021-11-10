@@ -10,50 +10,44 @@ A triangular number is a number that is represented by a pattern of dots arrange
 A square number is a result when a number has been multiplied by itself. 1, 4, 9, 16 are some of the examples of this.
 
 <br/>
-Created using **Java, XML**
+Created using **Java**, **XML**
 
 ## Screenshots
 
 ### <ins>Square Number</ins>
-<img src="https://user-images.githubusercontent.com/33955028/141064791-e47001ae-4cf3-40e0-8395-848009f3a7f3.png" width="205" height="380">
+<img src="https://user-images.githubusercontent.com/33955028/141064791-e47001ae-4cf3-40e0-8395-848009f3a7f3.png" width="205" height="420">
 
 ### <ins>Triangle Number</ins>
-<img src="https://user-images.githubusercontent.com/33955028/141064740-f3f411db-ba55-4bff-983e-adce6901d88e.png" width="205" height="380">
+<img src="https://user-images.githubusercontent.com/33955028/141064740-f3f411db-ba55-4bff-983e-adce6901d88e.png" width="205" height="420">
 
 ### <ins>Neither Traingle nor Square</ins>
-<img src="https://user-images.githubusercontent.com/33955028/141064717-df19a746-dd77-47d9-9661-4ada197e1665.png" width="205" height="380">
+<img src="https://user-images.githubusercontent.com/33955028/141064717-df19a746-dd77-47d9-9661-4ada197e1665.png" width="205" height="420">
 
-# [Basic Phrases App](https://github.com/blank0826/Mini-Apps/tree/master/App-Number-Shapes)
+# [Basic Phrases App](https://github.com/blank0826/Mini-Apps/tree/master/Basic-Phrases-App)
 ## Description
-This apps takes in a number and tells whether it is a triangle or square number.
+This apps contains phrases which when clicked will pronounce those phrases in french.
 
-### <ins>Triangle Number</ins>
-A triangular number is a number that is represented by a pattern of dots arranged in an equilateral triangle with the same number of dots on each side. 1, 3, 6, 10 are some examples of this.
+Created using **Java**, **XML**
 
-### <ins>Square Number</ins>
-A square number is a result when a number has been multiplied by itself. 1, 4, 9, 16 are some of the examples of this.
+## Screenshots
+<img src="https://user-images.githubusercontent.com/33955028/141067800-cc910fd2-6612-45b3-a430-ad5e309c67ed.png" width="205" height="420">
 
-<br/>
-Created using **Java, XML**
+# [Brain Teaser App](https://github.com/blank0826/Mini-Apps/tree/master/Basic-Phrases-App)
+## Description
+This apps gives a 30-sec time limit to solve as many simple maths problems as possible, simultaneously changing the score.
+
+Created using **Java**, **XML**
 
 ## Screenshots
 
-### <ins>Square Number</ins>
-<img src="https://user-images.githubusercontent.com/33955028/141064791-e47001ae-4cf3-40e0-8395-848009f3a7f3.png" width="205" height="380">
+### <ins>Initial State</ins>
+<img src="https://user-images.githubusercontent.com/33955028/141068800-bfc97c6e-04c0-4f05-9cb9-c7ee998f1728.png" width="205" height="420">
 
-### <ins>Triangle Number</ins>
-<img src="https://user-images.githubusercontent.com/33955028/141064740-f3f411db-ba55-4bff-983e-adce6901d88e.png" width="205" height="380">
+### <ins>Middle of the Game</ins>
+<img src="https://user-images.githubusercontent.com/33955028/141068952-ca14a735-ebad-4cf4-aee6-ec09aecba9a1.png" width="205" height="420">
 
-### <ins>Neither Traingle nor Square</ins>
-<img src="https://user-images.githubusercontent.com/33955028/141064717-df19a746-dd77-47d9-9661-4ada197e1665.png" width="205" height="380">
-
-
-
-
-
-
-
-
+### <ins>End of the Game</ins>
+<img src="https://user-images.githubusercontent.com/33955028/141069172-17df8a69-a2b0-49b8-b4fe-1adfeadf8297.png" width="205" height="420">
 
 
 
