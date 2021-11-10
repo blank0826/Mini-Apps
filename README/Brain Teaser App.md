@@ -1,4 +1,4 @@
-# [Brain Teaser App](https://github.com/blank0826/Mini-Apps/tree/master/Basic-Phrases-App)
+# [Brain Teaser App](https://github.com/blank0826/Mini-Apps/tree/master/Brain-Teaser-App)
 ## Description
 This apps gives a 30-sec time limit to solve as many simple maths problems as possible, simultaneously changing the score.
 
