@@ -12,6 +12,7 @@ To see the description of each project, click [here](https://github.com/blank082
 | Egg Timer App | [https://github.com/blank0826/Mini-Apps/blob/master/README/Egg%20Timer%20App.md](https://github.com/blank0826/Mini-Apps/blob/master/README/Egg%20Timer%20App.md)
 | Higher or Lower | [https://github.com/blank0826/Mini-Apps/blob/master/README/Higher%20or%20Lower.md](https://github.com/blank0826/Mini-Apps/blob/master/README/Higher%20or%20Lower.md)
 | Memorable Places App | [https://github.com/blank0826/Mini-Apps/blob/master/README/Memorable%20Places%20App.md](https://github.com/blank0826/Mini-Apps/blob/master/README/Memorable%20Places%20App.md)
+| Notes App | [https://github.com/blank0826/Mini-Apps/blob/master/README/Notes%20App.md](https://github.com/blank0826/Mini-Apps/blob/master/README/Notes%20App.md)
 | Tic Tac Toe | [https://github.com/blank0826/Mini-Apps/blob/master/README/Tic%20Tac%20Toe.md](https://github.com/blank0826/Mini-Apps/blob/master/README/Tic%20Tac%20Toe.md)
 | Times Table | [https://github.com/blank0826/Mini-Apps/blob/master/README/Times%20Table.md](https://github.com/blank0826/Mini-Apps/blob/master/README/Times%20Table.md)|
 | Weather App | [https://github.com/blank0826/Mini-Apps/blob/master/README/Weather%20App.md](https://github.com/blank0826/Mini-Apps/blob/master/README/Weather%20App.md)|
